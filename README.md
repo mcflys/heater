@@ -15,7 +15,7 @@ Temperature Sensor Add-on is suggested to measure water in tube, and to continue
 
 
 Note:
-When wiring the heater get help by electrichan, it's high voltage; AC 240/400 Volt. 
+When wiring the heater get help by electrician, it's high voltage; AC 240/400 Volt. 
 I have just used it to control heater with one phase coupling e.g. phase & neutral(240V)
 and control the phase with Shelly1PM.
 Not sure if the relay is capable of handling 400V, spec only says 16A.
